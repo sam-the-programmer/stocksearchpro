@@ -1,0 +1,87 @@
+AAL - American Airlines Group Inc.
+AAPL - Apple Inc.
+ABNB - Airbnb, Inc.
+AMC - AMC Entertainment Holdings, Inc.
+AMD - Advanced Micro Devices, Inc.
+AR - Antero Resources Corporation
+ASAN - Asana, Inc.
+AUY - Yamana Gold Inc.
+BAC - Bank of America Corporation
+BCC - Boise Cascade Company
+BCLYF - Barclays PLC
+BLD - TopBuild Corp.
+BTU - Peabody Energy Corporation
+BWXT - BWX Technologies, Inc.
+CCL - Carnival Corporation & plc
+CDNS - Cadence Design Systems, Inc.
+CLOV - Clover Health Investments, Corp.
+CMCSA - Comcast Corporation
+CSGP - CoStar Group, Inc.
+CSTM - Constellium SE
+DKNG - DraftKings Inc.
+DV - DoubleVerify Holdings, Inc.
+DVDCF - Davide Campari-Milano N.V.
+EPR - EPR Properties
+F - Ford Motor Company
+FB - Meta Platforms, Inc.
+FUBO - fuboTV Inc.
+GCPEF - GCL Technology Holdings Limited
+HIMS - Hims & Hers Health, Inc.
+HL - Hecla Mining Company
+HQY - HealthEquity, Inc.
+INTC - Intel Corporation
+ITUB - Itau Unibanco Holding S.A.
+JBT - John Bean Technologies Corporation
+JCYGY - Jardine Cycle & Carriage Limited
+K - Kellogg Company
+KOD - Kodiak Sciences Inc.
+LCID - Lucid Group, Inc.
+LGF-A - Lions Gate Entertainment Corp.
+LGF-B - Lions Gate Entertainment Corp.
+LMND - Lemonade, Inc.
+LOW - Lowe's Companies, Inc.
+LTH - Life Time Group Holdings, Inc.
+MBT - Mobile TeleSystems Public Joint Stock Company
+MELI - MercadoLibre, Inc.
+MNDY - monday.com Ltd.
+MNSO - MINISO Group Holding Limited
+MSFT - Microsoft Corporation
+NIO - NIO Inc.
+NOK - Nokia Oyj
+NU - Nu Holdings Ltd.
+NVAX - Novavax, Inc.
+NVDA - NVIDIA Corporation
+OMI - Owens & Minor, Inc.
+OPCH - Option Care Health, Inc.
+OSTK - Overstock.com, Inc.
+OZON - Ozon Holdings PLC
+PANW - Palo Alto Networks, Inc.
+PBR - Petroleo Brasileiro S.A. - Petrobras
+PLTR - Palantir Technologies Inc.
+REGI - Renewable Energy Group, Inc.
+RIO - Rio Tinto Group
+RLLCF - Rolls-Royce Holdings plc
+RNG - RingCentral, Inc.
+RRC - Range Resources Corporation
+RXT - Rackspace Technology, Inc.
+SBRCY - Sberbank of Russia
+SBUX - Starbucks Corporation
+SKIN - The Beauty Health Company
+SOFI - SoFi Technologies, Inc.
+SPCE - Virgin Galactic Holdings, Inc.
+SPT - Sprout Social, Inc.
+SQ - Block, Inc.
+SSRM - SSR Mining Inc.
+T - AT&T Inc.
+TAL - TAL Education Group
+TDOC - Teladoc Health, Inc.
+TEN - Tenneco Inc.
+TJX - The TJX Companies, Inc.
+TOST - Toast, Inc.
+TSLA - Tesla, Inc.
+VIPS - Vipshop Holdings Limited
+VRT - Vertiv Holdings Co
+WK - Workiva Inc.
+YNDX - Yandex N.V.
+ZETA - Zeta Global Holdings Corp.
+ZM - Zoom Video Communications, Inc.
