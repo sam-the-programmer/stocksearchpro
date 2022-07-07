@@ -1,0 +1,4 @@
+outs:
+- md5: 158c8ac864f83f9da57d6a847afd81ff
+  size: 175
+  path: yahoo.py
